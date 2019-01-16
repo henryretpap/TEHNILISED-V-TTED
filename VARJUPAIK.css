@@ -1,0 +1,42 @@
+body {
+	background-image: url("kass.jpg");
+	background-color: #cccccc;
+}
+
+nav { 
+	background-color: #c91414;
+	opacity: 0.8;
+	border: 1px solid black;
+	height: 60px;  
+	text-align: center;
+}
+
+
+h1 {
+	text-align: center;
+	color: white;
+	font-size: 75px;
+	text-shadow: 14px;
+}
+
+button {
+	opactiy: 1;
+	background-color: #eae8e8;
+	border: none;
+	color: black;
+	margin-left: 25px;
+	margin-top: 15px;
+	text-align: center;
+	border-radius: 10px;
+}
+
+button:hover {
+	background-color: #fcf9f9;
+	border-radius: 8px;
+
+
+a { 
+	text-decoration: none;
+}
+
+
